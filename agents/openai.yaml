@@ -1,0 +1,4 @@
+interface:
+  display_name: "电商产品内容策略研究与生成"
+  short_description: "研究产品、竞品、用户反馈、热点与SKU，生成专业电商内容策略"
+  default_prompt: "使用 $ecommerce-content-strategy 分析我的产品、竞品和用户反馈，并生成可执行的 Markdown 电商内容策略。"
